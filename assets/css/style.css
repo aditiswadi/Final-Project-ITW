@@ -1,0 +1,130 @@
+section{
+  border-top: 5px solid #FCAC45;
+}
+
+.navbar {
+  background-color: #222222;
+  border: 0 solid black;
+  padding: 12px 0;
+  position: fixed;
+  width: 100%;
+  top:  0;
+}
+
+.navbar ul li{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.navbar, .brand-text {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.jumbotron {
+  font-family: Cushing Hv BT;
+  background-image: url(../img/jumb-back.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  height: 780px;
+  background-position: 0 60px;
+  margin-top: -100px;
+  padding-top: 350px;
+}
+
+.jumbotron,a.fa {
+  color: #FCAC45;
+}
+
+.jumbotron h1 {
+  margin-left: 300px;
+  color: #FCAC45;
+}
+
+.jumbotron h2 {
+  color: #FCAC45;
+  margin-left: 600px;
+}
+
+hr{
+  width: 250px;
+  border-top: 2px solid #555;
+}
+
+.about {
+  height: 500px;
+}
+
+.about img {
+  border: 5px solid #666;
+}
+
+.skill {
+  height: 550px;
+}
+
+.contact {
+  height: 500px;
+}
+
+.gotop {
+  padding-top: 50px;
+}
+
+.fa {
+    padding: 100px 50px 6px 50px;
+    font-size: 30px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.portfolio {
+  font-family: Cushing Hv BT;
+  background-image: url(../img/port-back.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 100px;
+}
+
+.portfolio h1 {
+  color: white;
+}
+
+.nav li a{
+  color: #FCAC45;
+}
+
+.nav-tabs li .active{
+  border-radius: 0;
+}
+.nav li:hover a:hover {
+  color: #fecb39;
+  border-bottom: 1px solid #fecb39;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
+
+.btn{
+  color: white;
+  background-color: #444;
+}
+.btn:hover{
+  color: black;
+  background-color: #fecb39;
+}
+
+footer {
+  background: #222222;
+  color: #ffffff;
+  padding: 20px 0 15px 0;
+}
+
+footer p {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+
